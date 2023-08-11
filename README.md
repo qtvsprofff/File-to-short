@@ -1,0 +1,2 @@
+# Shortsy
+friendly brand
