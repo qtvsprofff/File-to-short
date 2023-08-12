@@ -10,4 +10,4 @@ apscheduler
 requests
 psutil
 pyromod
-pyrogram
+
